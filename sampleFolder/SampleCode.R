@@ -15,3 +15,5 @@ mulNum
 
 subNum = num2 - num1
 subNum
+
+name <- "J"
