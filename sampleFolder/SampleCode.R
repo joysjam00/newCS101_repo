@@ -9,3 +9,7 @@ aveNum
 
 divNum = num1/num2
 divNum
+
+mulNum = num1 * num2
+mulNum
+
