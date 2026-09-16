@@ -13,3 +13,5 @@ divNum
 mulNum = num1 * num2
 mulNum
 
+subNum = num2 - num1
+subNum
