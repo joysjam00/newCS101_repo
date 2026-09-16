@@ -6,3 +6,6 @@ num3
 
 aveNum = num3/2
 aveNum
+
+divNum = num1/num2
+divNum
